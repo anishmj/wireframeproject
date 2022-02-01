@@ -1,19 +1,29 @@
 # Wire frame for a website
 
-## AIM:
+# AIM:
 To design a wire frame for a website.
 
-## DESIGN STEPS:
+# DESIGN STEPS:
 
-### Step 1:
-Write your design steps here 
+## Step 1:
 
-### Step 2:
-Write your design steps here
+The design is done using Pencil project application.
 
-## OUTPUT:
-include your output screenshots 
+## Step 2:
 
+The layout of the website is done using "Desktop sketchy GUI" 
+#  OUTPUT:
+HOMEPAGE:
 
-## Result:
+![output](/HOMEPAGE.png)
+
+ABOUT PAGE:
+
+![output](/aboutus.png)
+
+TRAINING:
+
+![output](/training.png)
+
+# Result:
 Thus a wire frame is designed for a given website.
